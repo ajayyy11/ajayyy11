@@ -55,6 +55,6 @@ Information Technology graduate passionate about building intelligent systems us
 
 Email: [ajayyysh85@gmail.com](mailto:ajayyysh85@gmail.com)
 
-LinkedIn: [www.linkedin.com/in/ajayshanmugasundaram11]
+LinkedIn: [www.linkedin.com/in/ajaysdev11]
 
 
