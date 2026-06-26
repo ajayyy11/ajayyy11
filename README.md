@@ -4,13 +4,13 @@
 <!--                  STARK INDUSTRIES HEADER                   -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,2,30,27&text=STARK%20INDUSTRIES&fontSize=55&fontColor=FFD700&animation=fadeIn&desc=PERSONAL%20DEVELOPMENT%20DIVISION&descAlignY=68&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,2,30,27&text=AJAY%20INDUSTRIES&fontSize=55&fontColor=FFD700&animation=fadeIn&desc=PERSONAL%20DEVELOPMENT%20DIVISION&descAlignY=68&descSize=20"/>
 
 # ⚡ MARK XLVII DEVELOPER PROFILE
 
-### 🤖 Powered by **J.A.R.V.I.S. AI**
+### 🤖 Powered by **A.J.A.R.V.I.S. AI**
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Initializing+Arc+Reactor...;Loading+J.A.R.V.I.S...;Scanning+Developer+Identity...;Loading+Suit+Modules...;Welcome+Back,+Ajay+Shanmuga+Sundaram." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Initializing+Arc+Reactor...;Loading+A.J.A.R.V.I.S...;Scanning+Developer+Identity...;Loading+Suit+Modules...;Welcome+Back,+Ajay+Shanmuga+Sundaram." />
 
 <br>
 
@@ -31,7 +31,7 @@
 
 ---
 
-# 🤖 J.A.R.V.I.S. SYSTEM BOOT
+# 🤖 A.J.A.R.V.I.S. SYSTEM BOOT
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -134,7 +134,7 @@ Threat Level     None
 
 </div>
 
-### 🏆 Stark Industries Achievements
+### 🏆 AJAY Industries Achievements
 
 <div align="center">
 
@@ -171,7 +171,7 @@ Mission:            Create technology that improves lives.
 <!--                 STARK AI CORE                             -->
 <!-- ========================================================= -->
 
-# ⚙️ STARK AI CORE
+# ⚙️ AJAY AI CORE
 
 <div align="center">
 
@@ -193,7 +193,7 @@ Mission:            Create technology that improves lives.
 
 ---
 
-# ⚡ POWERED BY STARK TECHNOLOGY
+# ⚡ POWERED BY AJAY TECHNOLOGY
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Problem Solving              ████████████ 98%
 
 ---
 
-# 🛰️ STARK LABS
+# 🛰️ AJAY LABS
 
 <div align="center">
 
@@ -260,7 +260,7 @@ Problem Solving              ████████████ 98%
 <!--                    STARK ARMORY                           -->
 <!-- ========================================================= -->
 
-# 🦾 STARK ARMORY
+# 🦾 AJAY ARMORY
 
 <div align="center">
 
@@ -389,7 +389,7 @@ MARK V  ░░░░░░░░░░░░░░░░░░░░  Loading...
 
 <div align="center">
 
-## ⚛ STARK ENGINEERING STATUS
+## ⚛ AJAY ENGINEERING STATUS
 
 ```text
 SUITS BUILT              3
@@ -421,7 +421,7 @@ NEXT TARGET              BUILD MARK IV
 
 </div>
 
-## 🪪 STARK INDUSTRIES PERSONNEL FILE
+## 🪪 AJAY INDUSTRIES PERSONNEL FILE
 
 ```yaml
 Name:             AJAY SHANMUGA SUNDARAM
@@ -436,7 +436,7 @@ Power Source:     Curiosity + Coffee ☕
 
 ---
 
-# 🏅 STARK ACADEMY CERTIFICATIONS
+# 🏅 AJAY ACADEMY CERTIFICATIONS
 
 <div align="center">
 
@@ -455,7 +455,7 @@ Power Source:     Curiosity + Coffee ☕
 
 ---
 
-# 🔬 STARK RESEARCH DIVISION
+# 🔬 AJAY RESEARCH DIVISION
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -506,7 +506,7 @@ Next Upgrade:         MARK IV
 
 ---
 
-# 🌐 STARK COMMUNICATIONS
+# 🌐 AJAY COMMUNICATIONS
 
 <div align="center">
 
@@ -538,7 +538,7 @@ Next Upgrade:         MARK IV
 
 ---
 
-### J.A.R.V.I.S LOG
+### A.J.A.R.V.I.S LOG
 
 ```text
 System Shutdown...
