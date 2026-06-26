@@ -35,7 +35,7 @@
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      STARK INDUSTRIES AI OPERATING SYSTEM
+      AJAY INDUSTRIES AI OPERATING SYSTEM
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 > Initializing Arc Reactor............... SUCCESS
 > Loading Neural Core.................... SUCCESS
@@ -168,7 +168,7 @@ Mission:            Create technology that improves lives.
 ```
 
 <!-- ========================================================= -->
-<!--                 STARK AI CORE                             -->
+<!--                 AJAY AI CORE                             -->
 <!-- ========================================================= -->
 
 # ⚙️ AJAY AI CORE
@@ -177,15 +177,15 @@ Mission:            Create technology that improves lives.
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                     STARK INDUSTRIES                          ║
-║                  AI CORE INITIALIZATION                       ║
+║                     AJAY INDUSTRIES                          ║
+║                  AI CORE INITIALIZATION                      ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Arc Reactor ............... ONLINE                           ║
-║  J.A.R.V.I.S ............... ACTIVE                            ║
-║  FRIDAY .................... READY                            ║
-║  Neural Network ............ LOADED                           ║
-║  Automation Engine ......... ACTIVE                           ║
-║  GitHub Synchronization .... SUCCESS                          ║
+║  Arc Reactor ............... ONLINE                          ║
+║  J.A.R.V.I.S ............... ACTIVE                          ║
+║  FRIDAY .................... READY                           ║
+║  Neural Network ............ LOADED                          ║
+║  Automation Engine ......... ACTIVE                          ║
+║  GitHub Synchronization .... SUCCESS                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -257,7 +257,7 @@ Problem Solving              ████████████ 98%
 </div>
 
 <!-- ========================================================= -->
-<!--                    STARK ARMORY                           -->
+<!--                    AJAY ARMORY                           -->
 <!-- ========================================================= -->
 
 # 🦾 AJAY ARMORY
@@ -410,14 +410,14 @@ NEXT TARGET              BUILD MARK IV
 </div>
 
 <!-- ========================================================= -->
-<!--             S.H.I.E.L.D COMMAND CENTER                    -->
+<!--             AJ COMMAND CENTER                    -->
 <!-- ========================================================= -->
 
-# 🛡 S.H.I.E.L.D COMMAND CENTER
+# 🛡 A.J.A.Y COMMAND CENTER
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=S.H.I.E.L.D%20SECURITY%20CLEARANCE&fontColor=FFD700&color=0:111111,50:8B0000,100:00CFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=A.J.A.Y%20SECURITY%20CLEARANCE&fontColor=FFD700&color=0:111111,50:8B0000,100:00CFFF"/>
 
 </div>
 
