@@ -261,9 +261,9 @@ mission:
 <div align="center">
 
 <a href="https://github.com/ajayyy11"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00c6ff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=7b2ff7"/></a>
-
+<a href="https://in.linkedin.com/in/ajaysdev11"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00c6ff"/></a>
+<a href="mailto:ajayyy85@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=7b2ff7"/></a>
+<a href="https://instagram.com/ajayy.k._"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4ecd"/></a>
 </div>
 
 <br/>
