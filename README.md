@@ -2,7 +2,7 @@
 
 **Python Developer | AI/ML & Computer Vision | Application Engineering**
 
-I’m an IT graduate (B.Sc. Information Technology, 2023–2026) interested in building practical software that is reliable, maintainable, and useful. My projects explore Python application development, machine learning, computer vision, and automation.
+I’m interested in building practical software that is reliable, maintainable, and useful. My projects explore Python application development, machine learning, computer vision, and automation.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ajayyy11-181717?style=flat&logo=github)](https://github.com/ajayyy11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ajaysdev11)
